@@ -8,7 +8,7 @@ function sketchProc(p) {
     };
 
     p.draw = function () {
-        
+
     };
 }
 
