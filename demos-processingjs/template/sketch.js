@@ -1,8 +1,6 @@
 /**
  * Created by Lujun Weng on 5/8/2016.
  */
-"use strict";
-
 function sketchProc(p) {
     p.setup = function () {
         p.size(800, 600);
@@ -14,5 +12,5 @@ function sketchProc(p) {
     };
 }
 
-var canvas = document.getElementById("sketch");
+let canvas = document.getElementById("sketch");
 new Processing(canvas, sketchProc);
