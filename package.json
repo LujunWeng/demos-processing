@@ -1,0 +1,22 @@
+{
+  "name": "demos-processing",
+  "version": "1.0.0",
+  "description": "Demos using Processing",
+  "main": "index.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LujunWeng/demos-processing.git"
+  },
+  "keywords": [
+    "processing",
+    "demos"
+  ],
+  "author": "LujunW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LujunWeng/demos-processing/issues"
+  },
+  "homepage": "https://github.com/LujunWeng/demos-processing#readme"
+}
