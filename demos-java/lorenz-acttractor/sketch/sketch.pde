@@ -1,7 +1,7 @@
-import peasy.test.*;
-import peasy.org.apache.commons.math.*;
-import peasy.*;
-import peasy.org.apache.commons.math.geometry.*;
+//import peasy.test.*;
+//import peasy.org.apache.commons.math.*;
+//import peasy.*;
+//import peasy.org.apache.commons.math.geometry.*;
 
 
 float x = 0.01;
@@ -12,13 +12,13 @@ float b = 28.0;
 float c = 8.0 / 3.0;
 
 ArrayList<PVector> points = new ArrayList<PVector>();
-PeasyCam cam;
+//PeasyCam cam;
 
 void setup () 
 {
   size(800, 600, P3D);
   colorMode(HSB);
-  cam = new PeasyCam(this, 500);
+  //cam = new PeasyCam(this, 500);
 };
 
 void draw()
